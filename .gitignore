@@ -1,0 +1,9 @@
+pcb/panelized
+pcb/design
+*.kicad_pcb-bak
+pcb/remnant_bottom.pro
+pcb/remnant-cache.lib
+*.net
+pcb/remnant.bak
+pcb/fp-info-cache
+pcb/fp-lib-table
