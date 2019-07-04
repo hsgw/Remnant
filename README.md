@@ -1,5 +1,5 @@
 # Remnant
-![Remnant](remnant.jpg)
+![Remnant](doc/img/remnant.jpg)
 4x2 macro keyboard with attiny85 based digispark.
 
 # Document
