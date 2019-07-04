@@ -7,3 +7,6 @@ pcb/remnant-cache.lib
 pcb/remnant.bak
 pcb/fp-info-cache
 pcb/fp-lib-table
+pcb/remnant.csv
+pcb/remnant.ods
+pcb/remnant.xml
