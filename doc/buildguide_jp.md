@@ -1,4 +1,22 @@
 # Remnant ビルドガイド
+
+## Maker Faire Tokyo 2019にてご購入頂いた方へ
+ATTINY85のbootloaderを書き忘れている物がいくつか混じっていたようです。   
+誠に申し訳ありません。書き込み済みのものをお送りいたしますのでinfo@5z6p.comへご連絡頂けますでしょうか？
+お手数をおかけしますが、よろしくお願いします。
+
+- AVRへの書き込み環境のある方
+以下のブートローダを書き込み、fuseを書き換えて下さい。
+https://github.com/micronucleus/micronucleus
+
+上記リポジトリをcloneしたあと、
+```
+cd firmwere
+make CONFIG=t85_default
+make CONFIG=t85_default flash
+make CONFIG=t85_default fuse
+```
+
 ## パーツリスト
 組み立てる前にかならずパーツが全て揃っているか確認してください。
 
